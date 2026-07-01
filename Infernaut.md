@@ -801,7 +801,7 @@ res://
 
 
 
-Infernaut é um run and gun 2D focado em ação rápida, inspirado nos clássicos do gênero. O jogador controla um bombeiro equipado com tecnologia avançada para combater criaturas de fogo e impedir uma catástrofe global causada por uma força misteriosa que controla as chamas.
+Infernaut é um run and gun 2D focado em ação rápida, inspirado nos clássicos do gênero como Contra(NES). O jogador controla um bombeiro equipado com tecnologia avançada para combater criaturas de fogo e impedir uma catástrofe global causada por uma força misteriosa que controla as chamas.
 
 
 
