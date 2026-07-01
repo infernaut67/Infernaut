@@ -563,13 +563,13 @@ Pixel Art.
 
 
 
-\### Herói
+\### Herói(Bombeiro)
 
 
 
-\* Azul
+\* Laranja
 
-\* Branco
+\* Vermelho
 
 \* Cinza
 
