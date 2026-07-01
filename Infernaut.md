@@ -23,7 +23,7 @@ i5 2500 ou ryzen 3 1200
 hd 7850 ou gt 740
 50mb de espaço livre
 
-\*\*Gênero:\*\* Run and Gun / Plataforma de Ação 2D
+\*\*Gênero:\*\* Run and Gun / Plataforma de Ação 2D,Pixel Art(8bits)
 
 
 
@@ -39,7 +39,7 @@ hd 7850 ou gt 740
 
 
 
-Infernaut é um jogo de ação 2D inspirado nos clássicos run and gun dos anos 80 e 90. O jogador assume o papel de um bombeiro equipado com tecnologia especial capaz de combater criaturas de fogo e sobreviver em ambientes devastados por incêndios sobrenaturais.
+Infernaut é um jogo de ação 2D inspirado nos clássicos run and gun dos anos 80 e 90. O jogador assume o papel de um bombeiro equipado com tecnologia especial capaz de combater criaturas de fogo e sobreviver em ambientes devastados por incêndios sobrenaturais. O estilo de arte é em homenagem aos clássicos do NES,por isso assumindo os 8bits no mesmo.
 
 
 
@@ -547,7 +547,7 @@ Exibir:
 
 
 
-Pixel Art.
+Pixel Art em 8  bits.
 
 
 
@@ -579,7 +579,7 @@ Pixel Art.
 
 
 
-\* Vermelho
+\* Azul
 
 \* Laranja
 
@@ -801,7 +801,7 @@ res://
 
 
 
-Infernaut é um run and gun 2D focado em ação rápida, inspirado nos clássicos do gênero como Contra(NES). O jogador controla um bombeiro equipado com tecnologia avançada para combater criaturas de fogo e impedir uma catástrofe global causada por uma força misteriosa que controla as chamas.
+Infernaut é um run and gun 2D em pixel art 8(bits)focado em ação rápida, inspirado nos clássicos do gênero como Contra(NES). O jogador controla um bombeiro equipado com tecnologia avançada para combater criaturas de fogo e impedir uma catástrofe global causada por uma força misteriosa que controla as chamas.
 
 
 
