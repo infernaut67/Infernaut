@@ -12,7 +12,16 @@
 
 \*\*Engine:\*\* Godot
 
+\*\*Linguagem:\*\* GDScript
+
 \*\*Plataformas:\*\* PC e Android
+\*\*Requisitos mínimos:\*\*
+
+Minimos
+i5 2500 ou ryzen 3 1200
+4 gb RAM
+hd 7850 ou gt 740
+50mb de espaço livre
 
 \*\*Gênero:\*\* Run and Gun / Plataforma de Ação 2D
 
