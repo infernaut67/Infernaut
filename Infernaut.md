@@ -17,11 +17,19 @@
 \*\*Plataformas:\*\* PC e Android
 \*\*Requisitos mínimos:\*\*
 
-Minimos
+Minimos(PC)
 i5 2500 ou ryzen 3 1200
 4 gb RAM
 hd 7850 ou gt 740
-50mb de espaço livre
+350mb de espaço livre
+Windows 10 ou mais 
+
+Mínimos(Android)
+processador com mais de 2ghz
+gpu (não definida)
+4gb RAM
+350 mb de espaço livre
+Android 8 ou mais(IOS não suportado)
 
 \*\*Gênero:\*\* Run and Gun / Plataforma de Ação 2D,Pixel Art(8bits)
 
